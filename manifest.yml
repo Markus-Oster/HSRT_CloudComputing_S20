@@ -1,0 +1,5 @@
+ applications:
+ - name: keen-feynman
+   memory: 256M
+   host: keen-feynman-2
+   buildpack: staticfile_buildpack
